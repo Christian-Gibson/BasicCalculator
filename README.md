@@ -1,3 +1,4 @@
+![basiccalculatorpreview1](https://user-images.githubusercontent.com/103766177/164994223-447277a2-d888-4b94-b2cf-277debfef2c3.png)
 # BasicCalculator
 Basic four function calculator
 
